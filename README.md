@@ -1,5 +1,5 @@
 <h1>Java Distributed Systems Assignments</h1>
-<p>This repository contains Java code for several assignments completed during a Distributed Systems course at <a href="#">University Name</a>.</p>
+<p>This repository contains Java code for several assignments completed during a Distributed Systems course at the University </p>
 <h2>Assignments</h2>
 <ul>
 <li><strong>TP1: Application client-serveur avec les sockets TCP java Pour la recherche d’une sous-chaîne</strong><br>
